@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ollily
-- 👀 I’m interested in [topics](//ollily/topics) 
+- 👀 I’m interested in [topics](/ollily/topics) 
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
