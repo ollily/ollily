@@ -1,11 +1,7 @@
 # 👋 Hi, I’m @ollily
-Founder of [The oGlow Team](/orgs/The-oGlow/teams/oteam)
+The Founder of 
 
-👀 See also my [gists](https://gist.github.com/ollily)
+[![The oGlow Team](https://avatars.githubusercontent.com/t/6287527?s=240)<br/>The oGlow Team](https://github.com/The-oGlow)
 
-<!---
-- 👀 I’m interested in [topics](/ollily/topics) 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+## Gists
+See also my 👀 [gists](https://gist.github.com/ollily) 👀
